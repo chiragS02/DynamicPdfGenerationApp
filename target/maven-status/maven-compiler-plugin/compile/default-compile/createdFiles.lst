@@ -1,0 +1,6 @@
+com\pdf\model\InvoiceRequest$Item.class
+com\pdf\model\InvoiceRequest.class
+com\pdf\service\PdfService.class
+com\pdf\controller\PdfController.class
+com\pdf\util\PdfGenerator.class
+com\pdf\DynamicPdfGenerationApp.class
